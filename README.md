@@ -1,19 +1,76 @@
-# Hi 👋, I'm KC Kim
+<div align="center">
+  
+  <!-- 프로필 이미지 (둥근 사각형) -->
+  <img src="./generated_Image_60hu4860hu4860hu.png" alt="Profile Picture" width="200" height="200" style="border-radius: 20px; border: 5px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" />
+  
+  <h3>🚀 Full Stack Engineer & AI Innovator</h3>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=AI-Powered+Full-Stack+Developer;Former+Entrepreneur+%7C+Veteran)](https://git.io/typing-svg)
+  
+</div>
 
-- 🔭 I'm currently working on **AI-powered full-stack applications using TypeScript, React, Python, FastAPI, and Node.js.**
+---
 
-- ⚡ Fun fact **Before training AI models, I was trained by two armies: South Korea and the U.S. 🇰🇷🇺🇸. All taught me structure, precision, and adaptability.**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **devby.kc@gmail.com**
+```typescript
+const kcKim = {
+  role: "Full Stack Engineer & AI Specialist",
+  currentFocus: "Building AI-powered applications that solve real-world problems",
+  techStack: [
+    "TypeScript", "Python", "Java", "React", "FastAPI", "Node.js", "PyTorch", "HuggingFace" "LangChain", "Ollama", "NumPy","Pandas","OpenCV", "Jupyter", "Docker", "Git", "Linux", "GCP","Firebase", "Figma", "Gradio",
+  ],
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://github.com/24kool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="24kool" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/kc-kim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kc-kim" height="30" width="40" /></a>
-</p>
+  passions: ["Proactive & Positive Mindset", "Grinding & Continuous Improvement", "Innovation"],
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gradio" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+  funFacts: "Before training AI models, I was trained by two armies 🇰🇷🇺🇸"
+};
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=24kool&show_icons=true&locale=en&layout=compact" alt="24kool" /></p>
+### 🌟 Other Experience Beside SWE
+```yaml
+Military Service:
+  - 🎖️ Korean Army Veteran (ROK Army)
+  - 🎖️ United States Army Veteran
+  - 🏥 Healthcare Administrator in U.S. Army
+  
+Entrepreneurship:
+  - 🛍️ E-commerce Entrepreneur (IG: @musti.vintage)
+    • ~6,000 followers
+    • Built from hobby to business while maintaining full-time student status
+    • Managed end-to-end operations: sourcing, marketing, customer service
+  
+Corporate Experience:
+  - 👔 HR Specialist in Bluetooth Technology sector
+    • Talent acquisition and workforce management
+    • Bridge between technical teams and business operations
+```
+---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24kool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages" height="170" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24kool&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=24kool&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" alt="Contribution Graph" />
+  
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-devby.kc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devby.kc@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-KC_Kim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kc-kim)
+  [![GitHub](https://img.shields.io/badge/GitHub-24kool-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/24kool)
+  
+  <br/>
+  
+  💬 **Open to collaboration, consulting opportunities, and interesting projects!**
+  
+</div>
