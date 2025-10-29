@@ -1,9 +1,6 @@
 <div align="center">
   
-  <!-- 프로필 이미지 (둥근 사각형) -->
   <img src="./generated_Image_60hu4860hu4860hu.png" alt="Profile Picture" width="200" height="200" style="border-radius: 20px; border: 5px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" />
-  
-  <h3>🚀 Full Stack Engineer & AI Innovator</h3>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=AI-Powered+Full-Stack+Developer;Former+Entrepreneur+%7C+Veteran)](https://git.io/typing-svg)
   
