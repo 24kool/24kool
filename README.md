@@ -51,11 +51,44 @@ Corporate Experience:
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24kool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages" height="170" />
+  <!-- Top Languages - Dark/Light Mode -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=24kool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=c9d1d9"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=24kool&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24kool&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170" />
+  </picture>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24kool&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="GitHub Streak" />
+  <!-- GitHub Streak - Dark/Light Mode -->
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=24kool&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=24kool&theme=default&hide_border=true&background=ffffff&stroke=0969da&ring=0969da&fire=cf222e&currStreakLabel=0969da"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=24kool&theme=default&hide_border=true" alt="GitHub Streak" />
+  </picture>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=24kool&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" alt="Contribution Graph" />
+  <!-- Activity Graph - Dark/Light Mode -->
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=24kool&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=24kool&theme=github&hide_border=true&bg_color=ffffff&color=0969da&line=0969da&point=24292f"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=24kool&theme=github&hide_border=true" alt="Contribution Graph" />
+  </picture>
   
 </div>
 
