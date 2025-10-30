@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   
   <img src="./generated_Image_60hu4860hu4860hu.png" alt="Profile Picture" width="200" height="200" style="border-radius: 20px; border: 5px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" />
   
@@ -6,7 +6,7 @@
   
 </div>
 
----
+--- -->
 
 ## 👨‍💻 About Me
 
@@ -62,7 +62,7 @@ Corporate Experience:
   </picture>
   
   <!-- GitHub Streak - Dark/Light Mode -->
-  <picture>
+  <!-- <picture>
     <source
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=24kool&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff"
       media="(prefers-color-scheme: dark)"
@@ -72,7 +72,7 @@ Corporate Experience:
       media="(prefers-color-scheme: light)"
     />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=24kool&theme=default&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  </picture> -->
   
   <!-- Activity Graph - Dark/Light Mode -->
   <picture>
